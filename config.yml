@@ -6,7 +6,6 @@ contact_links:
     about: Ask a question or request support for using nuclei-templates
 
   - name: Share idea / feature to discuss for nuclei-templates
-    url: https://github.com/projectdiscovery/nuclei-templates/discussions/categories/ideas
     about: Share idea / feature to discuss for nuclei-templates
 
   - name: Connect with PD Team & Community (Discord)
